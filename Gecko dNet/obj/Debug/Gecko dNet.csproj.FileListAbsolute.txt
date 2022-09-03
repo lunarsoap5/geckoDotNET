@@ -1,0 +1,20 @@
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\bin\Debug\Gecko dNet.exe.config
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\bin\Debug\Gecko dNet.exe
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\bin\Debug\Gecko dNet.pdb
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\Gecko dNet.csprojResolveAssemblyReference.cache
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.external.AddressTextBox.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.BPList.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.external.HistoryTextBox.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.GCTWizard.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.InputBox.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.MainForm.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.NoteSheets.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.NotePage.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.Properties.Resources.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.RegisterDialog.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.ValueInput.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\GeckoApp.WatchDialog.resources
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\Gecko dNet.csproj.GenerateResource.Cache
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\Gecko dNet.exe
+C:\Users\justi\Downloads\source-archive (1)\geckowii\trunk\GeckoDotNET\Gecko dNet\obj\Debug\Gecko dNet.pdb
